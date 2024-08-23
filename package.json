@@ -1,0 +1,16 @@
+{
+  "name": "screen-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reminder1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.0.1",
+    "node-notifier": "^10.0.1"
+  }
+}
